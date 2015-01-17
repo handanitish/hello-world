@@ -1,2 +1,6 @@
 # hello-world
 first git hub project repository
+hello guys this is nitish here....
+trying to cope up with git hub
+hope u r doing better there
+ thank u coursera for helping me for dealing with it...
